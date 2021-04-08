@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573656978776",
+    "project_id": "somelessonproject",
+    "storage_bucket": "somelessonproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573656978776:android:6e6dfd88f1c9b338b0412d",
+        "android_client_info": {
+          "package_name": "com.example.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573656978776-rj9dtvpp5i198vdqlutqv2hk0g359ogm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKO8h1WqKvvZ1OSh4KZQaK5xfnCBbuFM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573656978776-rj9dtvpp5i198vdqlutqv2hk0g359ogm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
